@@ -1,3 +1,4 @@
-panda
+streamlit
+pandas
 numpy
 time
